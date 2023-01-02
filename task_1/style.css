@@ -1,0 +1,35 @@
+.body {
+    background-color: white;
+    margin: 15px;
+    
+}
+
+.img {
+    border-radius: 300px;
+    max-width: 1500px;
+    height: 800px;
+    object-fit:contain;
+    
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.flex-container {
+    margin: 70px;
+    
+}
+
+.flex-child{
+    display: flex;
+    border: 2px solid yellow;
+}
+.sect-1 {
+    
+    font-weight:bolder;
+    font-size:xx-large;
+}
+.sect-1_1{
+    font-weight: bold;
+}
